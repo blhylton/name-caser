@@ -1,5 +1,5 @@
 {
-  "name": "name-caser",
+  "name": "@blhylton/name-caser",
   "version": "0.0.1",
   "description": "Minimal library for handling proper casing of names",
   "type": "module",

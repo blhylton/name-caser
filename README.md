@@ -3,7 +3,7 @@
 # Installation
 
 ```shell
-npm i blhylton/name-caser
+npm i @blhylton/name-caser
 ```
 
 # Basic Usage
